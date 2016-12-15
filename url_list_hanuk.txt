@@ -1,0 +1,7 @@
+http://api.dbs.bh.org.il/v1/search?collection=photoUnits&q=hanukkah
+http://api.dbs.bh.org.il/v1/search?collection=photoUnits&from_=15&q=hanukkah
+http://api.dbs.bh.org.il/v1/search?collection=photoUnits&from_=30&q=hanukkah
+http://api.dbs.bh.org.il/v1/search?collection=photoUnits&from_=45&q=hanukkah
+http://api.dbs.bh.org.il/v1/search?collection=photoUnits&from_=60&q=hanukkah
+http://api.dbs.bh.org.il/v1/search?collection=photoUnits&from_=75&q=hanukkah
+http://api.dbs.bh.org.il/v1/search?collection=photoUnits&from_=90&q=hanukkah
